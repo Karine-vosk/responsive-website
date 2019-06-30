@@ -13,29 +13,24 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-
 <div id="absolute_div">
     <div id="video_cont">
         <video width="95%" id="video" controls>
             <source src="images/Tomlinson.mp4" type="video/mp4">
             <source src="images/Tomlinson.ogg" type="video/ogg">
         </video>
-
         <span id="modal_hide">
-                        <i class="fa fa-close"></i>
-            </span>
+            <i class="fa fa-close"></i>
+        </span>
     </div>
 </div>
-
 <div id="all_content">
-
     <div id="about_content">
         <div id="row">
             <div id="icon">
                 <a>OXYGEN.</a>
             </div>
             <div id="menu">
-
                 <ul id="menu_ul">
                     <li class="first">
                         <a class="active" href="#" target="_blank" id="first_li">home</a>
@@ -74,14 +69,12 @@
                 </ul>
             </div>
             <!--button login-->
-
             <div id="login" class="jq_hover">
                 <a id="login_a" href="#">login</a>
             </div>
             <span class="menu_icon">
                 <i class="fa fa-bars open_icon" aria-hidden="true" name="bac"></i>
                 <i class="fa fa-times close_icon" aria-hidden="true" name="pak"></i>
-
             </span>
             <!--Sign In form-->
             <div id="modal_form">
@@ -101,14 +94,9 @@
                     <input id="check" type="checkbox" checked="checked">
                     <p>Remember me</p>
                 </form>
-
             </div>
-
-
-
         </div>
         <div id="content_text">
-
             <h1>OXYGEN</h1>
             <p>FREE HTML5 TEMPLATES MADE BY
                 <a href="http://gettemplates.co/" target="_blank">GETTEMPLATES.CO</a>
@@ -116,65 +104,49 @@
             <p id="par_start" class="jq_hover">
                 <a>get started</a>
             </p>
-
         </div>
     </div>
-
     <div id="inform_content">
         <div id="three_column">
-
             <div class="column">
-
-						<span class="icon">
-							<i class="fa fa-eye" aria-hidden="true"></i>
-						</span>
+                <span class="icon">
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                </span>
                 <h3>RETINA READY</h3>
-
-                <p>
-                    Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.
-
+                <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit
+                    ab aliquam dolor eius.
                 </p>
-
                 <p class="button_learn">
                     <a href="#">learn more</a>
                 </p>
-
             </div>
-
             <div class="column">
                 <span class="icon">
                     <i class="fa fa-newspaper-o" aria-hidden="true"></i>
                 </span>
                 <h3>FULLY RESPONSIVE</h3>
                 <p>
-                    Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.
+                    Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident.
+                    Odit ab aliquam dolor eius.
                 </p>
                 <p class="button_learn">
                     <a href="#">learn more</a>
                 </p>
             </div>
-
             <div class="column">
-
                 <span class="icon">
                     <i class="fa fa-power-off" aria-hidden="true"></i>
                 </span>
-
                 <h3>WEB STARTER</h3>
-                <p>
-                    Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.
-
+                <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit
+                    ab aliquam dolor eius.
                 </p>
                 <p class="button_learn">
                     <a href="#">learn more</a>
                 </p>
-
             </div>
-
         </div>
-
     </div>
-
     <div id="section">
         <div id="section_cont">
             <div id ="section_header">
@@ -282,9 +254,7 @@
         </div>
 
     </div>
-
     <!--slide content-->
-
     <div id="slide_div">
         <div id="slide_content">
             <h1>testimonial</h1>
