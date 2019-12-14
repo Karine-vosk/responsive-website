@@ -62,7 +62,7 @@
 	padding: 10px;
 	text-decoration: none;
 	opacity: 0.5;
-	color: rgb(255,255,255);
+	color: rgba(255,255,255,1);
 }
 
 .active{
@@ -70,7 +70,7 @@
 }
 
 .dropdown{
-	background-color: rgb(255,255,255);	
+	background-color: rgba(255,255,255,1);	
 	list-style-type: none;
 	padding: 15px;
 	border-radius: 5px;
@@ -129,7 +129,7 @@
 	text-decoration: none;
 	border-radius: 25px;
 	padding: 8px 20px;
-	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255,1);
 }
 
 
@@ -201,7 +201,7 @@
 
 #content_text >h1{
 	font-size: 5em;
-	color: rgb(255,255,255);
+	color: rgba(255,255,255,1);
 	text-align: center;
 	font-weight: lighter;
 	margin: 0 0 20px 0;
@@ -378,7 +378,7 @@
 	position: absolute;
 	right: 410px;
 	left: 0;
-	box-shadow: 0 17px 33px -15px rgba(0, 0, 0, 0.75);
+	box-shadow: 0 17px 33px -15px rgba(0, 0, 0, 0.8);
 	margin: 25px 10px;
 }
 
@@ -436,7 +436,7 @@
 	z-index: 980;
 	width: 90px;
 	height: 90px;
-	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255,1);
 	border-radius: 50%;
 	top: 39%;
 	left: 39%;
