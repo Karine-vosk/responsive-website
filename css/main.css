@@ -1,3 +1,6 @@
+/* testing branch*/
+
+
 *{
     box-sizing: border-box;
 	margin: 0;
@@ -10,7 +13,7 @@
 }
 
 #about_content{
-	width: 100%;
+	width: 100%; 
 	height: 47em;
 	background-image: url("../images/img_bg.gif");
 	position: relative;
@@ -32,7 +35,7 @@
 }
 
 #icon > a{
-	color: rgb(255,255,255);
+	color: rgba(255,255,255,1);
 	text-decoration: none;
 	font-size: 21px;
 	font-weight: bold;
